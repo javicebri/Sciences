@@ -1,2 +1,2 @@
 # Sciences
-Science and math projects or tools
+Science/math projects and tools
