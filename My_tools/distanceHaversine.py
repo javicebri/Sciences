@@ -15,8 +15,6 @@ class pointOnSphere:
     """
     A class used to create a point with two coordinates.
 
-    ...
-
     Attributes
     ----------
     latitude : float
